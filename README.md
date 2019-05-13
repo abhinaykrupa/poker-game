@@ -39,6 +39,6 @@ then execute the test file that you want to see the results for:
 
 php cardTest.php
 
-php DeckTest.php
+php deckTest.php
 
 php handTest.php
