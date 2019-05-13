@@ -2,7 +2,7 @@ Poker Library by Abhi
 
 this code was built and tested in php 7.1 version and was built for CLI execution only.
 
-for executing it in browser code "\r\n" has to be changed to "<br>" or by using nl2br() php function where ever we have the code for carriage returns
+for executing it in browser code "\r\n" has to be changed to "<\ br >" or by using nl2br() php function where ever we have the code for carriage returns
 
 To Run the entire script as a game flow, cd into the folder that you place code base in:
 
